@@ -69,7 +69,7 @@ They are separate programs (mere aggregation) and are not derived from GPL code.
    git tag
    git checkout v25.12.0-rc2
    git describe --tags
-   v24.10.1
+   v25.12.0-rc2
    ./scripts/feeds update -a
    ./scripts/feeds install -a
    make menuconfig
