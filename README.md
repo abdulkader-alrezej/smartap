@@ -5,7 +5,8 @@
 
 ## Firmware Downloads
 
-| Dongwon T&I DW02-412H (128M) | sysupgrade (SquashFS) | [⬇️ Download]() |
+| Dongwon T&I DW02-412H (128M) | sysupgrade (SquashFS) | [⬇️ Download](https://github.com/abdulkader-alrezej/smartap/releases/download/dsa-dw02-412h-128m/openwrt-ath79-nand-DSA-dongwon_dw02-412h-128m-squashfs-sysupgrade.bin) |
+
 
 ---
 
