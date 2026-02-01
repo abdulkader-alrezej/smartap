@@ -72,7 +72,7 @@ They are separate programs (mere aggregation) and are not derived from GPL code.
    cd openwrt
    git pull
    git tag
-   git checkout v25.12.0-rc2
+   git checkout v25.12.0-rc3
    git describe --tags
    v25.12.0-rc2
    ./scripts/feeds update -a
