@@ -13,7 +13,14 @@ OpenWrt v25.12.0-rc3
 
 
 ---
+## Source Code Availability (GPLv2 Compliance)
 
+This device (DW02-412H) has been converted to use the OpenWrt DSA framework.
+In compliance with the GNU General Public License v2 (GPLv2), the complete corresponding source code used to build this firmware, including all modifications, is available at the following repository:
+
+| Dongwon T&I DW02-412H (128M) ) | [ Link:](https://github.com/abdulkader-alrezej/openwrt) |
+
+---
 # Complete Corresponding Source (CCS) for my OpenWrt-based firmware
 
 This repository provides the **Complete Corresponding Source (CCS)** for the OpenWrt-based images I distribute for the following devices:
