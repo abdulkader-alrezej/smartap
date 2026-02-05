@@ -7,9 +7,9 @@
 
 OpenWrt v25.12.0-rc3
 
-| Dongwon T&I DW02-412H (128M) | sysupgrade (SquashFS) | [⬇️ Download](https://github.com/abdulkader-alrezej/smartap/releases/download/ath79-dsa-smartapv41stable-dw02-412h-128m/openwrt-ath79-nand-DSA-SmartAPv41-dongwon_dw02-412h-128m-squashfs-sysupgrade.bin) |
+| Dongwon T&I DW02-412H (128M) | sysupgrade (SquashFS) | [⬇️ Download](https://github.com/abdulkader-alrezej/smartap/releases/download/ath79-dsa-smartapv42stable-dw02-412h-128m/openwrt-ath79-nand-DSA-SmartAPv42-dongwon_dw02-412h-128m-squashfs-sysupgrade.bin) |
 
-| Dongwon T&I DW02-412H (128M) | Nand (SquashFS-Factory Image) | [⬇️ Download](https://github.com/abdulkader-alrezej/smartap/releases/download/ath79-dsa-smartapv41stable-dw02-412h-128m/openwrt-ath79-nand-DSA-SmartAPv41-dongwon_dw02-412h-128m-squashfs-factory.img) |
+| Dongwon T&I DW02-412H (128M) | Nand (SquashFS-Factory Image) | [⬇️ Download](https://github.com/abdulkader-alrezej/smartap/releases/download/ath79-dsa-smartapv42stable-dw02-412h-128m/openwrt-ath79-nand-DSA-SmartAPv42-dongwon_dw02-412h-128m-squashfs-factory.img) |
 
 
 ---
