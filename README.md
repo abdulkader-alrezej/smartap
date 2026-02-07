@@ -95,6 +95,7 @@ They are separate programs (mere aggregation) and are not derived from GPL code.
 
 ---
 
-<img width="1921" height="1040" alt="image" src="https://github.com/user-attachments/assets/0798c44e-8179-4ce4-afc2-18a555ee8d96" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f320c08-961b-44bb-aec5-eec8a6f5c1a5" />
+
 
 
